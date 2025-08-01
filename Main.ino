@@ -10,8 +10,8 @@
 #include <Adafruit_Fingerprint.h>
 
 // WiFi credentials
-const char* ssid = "iPhone 14 Plus";
-const char* password = "jbgadget2023";
+const char* ssid = "Skill G Inoovation";
+const char* password = "INNOV8HUB";
 
 // Supabase
 const char* supabase_url = "https://cskdjbpsiupasdhynazt.supabase.co";
